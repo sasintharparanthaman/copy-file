@@ -27,8 +27,8 @@ with open("copytxt",'w') as fp1:
 ```
 
 ### OUTPUT:
+![Uploading Screenshot 2023-12-29 204431.png…]()
 
-![Alt text](<Screenshot 2023-12-29 204431.png>)
 
 ## RESULT:
 Thus the program is written to copy the contents from one file to another file.
